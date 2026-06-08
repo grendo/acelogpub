@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-05-17
 
-This End User License Agreement ("EULA") is a legal agreement between you ("User") and the developer of Diary255 ("Developer", "we", "us", or "our"). By downloading, installing, or using the Diary255 application ("App"), you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the App.
+This End User License Agreement ("EULA") is a legal agreement between you ("User") and the developer of Acelog ("Developer", "we", "us", or "our"). By downloading, installing, or using the Acelog application ("App"), you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the App.
 
 ## 1. License Grant and Intellectual Property
 Developer grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the App strictly in accordance with the terms of this Agreement. 
